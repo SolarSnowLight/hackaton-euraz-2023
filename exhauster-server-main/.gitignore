@@ -1,0 +1,9 @@
+.env
+config/config.yml
+config/CA.pem
+config/client_secret.json
+schema
+docs
+logs
+public
+Makefile

@@ -1,0 +1,49 @@
+{
+  "compilerOptions": {
+    "target": "esnext", // simply means which version of ECMAScript you're using to code
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+
+
+    // allow resolve src folder as module.
+    // You can use: 'import Something from "src/components/SvgIcons/Something"'
+    "baseUrl":".",
+
+    // doesn't work
+    /*"baseUrl": "./src",
+    "paths": {
+        "@ic*//*": ["./assets/icons*//*"],
+            "@im*//*": ["./assets/images*//*"],
+        },*/
+
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "exactOptionalPropertyTypes": true, // ? means absence of property but not undefined
+    "downlevelIteration": true, // use ...iterator
+    "noImplicitAny": false, // нет неявных any
+    "noImplicitOverride": true, // при переопределении всегда надо указывать override
+    "allowUnreachableCode": true, // разрешить код после return, который никогда не выполнится
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true, // allow only modules (files with import/export). At least you need 'export {}'.
+    "noEmit": true,
+    // 'preserve' - will keep the JSX as part of the output to be further consumed by another transform step (e.g. Babel). Output will have a .jsx file extension.
+    // 'react' - will emit React.createElement. Output will have a .js file extension.
+    // 'react-native' - is the equivalent of 'preserve' in that it keeps all JSX, but the output will instead have a .js file extension.
+    // 'react-jsx' - helps you to avoid the necessity of importing React in every file where jsx is used
+    "jsx": "react-jsx",
+  },
+  // ??? https://www.typescriptlang.org/tsconfig#include
+  "include": [
+    "src"
+  ]
+}

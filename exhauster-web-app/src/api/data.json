@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "15d8d513-4734-4d6c-a346-f1904d8e99bd",
+    "name": "Эксгаустер № 1 (У-171)",
+    "bearing_1": {
+      "heating_temperature": {
+        "temperature": 62.80000305175781,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.3819444477558136,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.6076388955116272,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.28935185074806213,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_2": {
+      "heating_temperature": {
+        "temperature": 56.50000762939453,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.23148147761821747,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.7631143927574158,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.5844907760620117,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_3": {
+      "heating_temperature": {
+        "temperature": 48.19999694824219,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_4": {
+      "heating_temperature": {
+        "temperature": 51.19999694824219,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_5": {
+      "heating_temperature": {
+        "temperature": 41.399993896484375,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_6": {
+      "heating_temperature": {
+        "temperature": 41.5,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 10,
+          "warning_max": 65,
+          "warning_min": 20
+        }
+      }
+    },
+    "bearing_7": {
+      "heating_temperature": {
+        "temperature": 38,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 2.1064815521240234,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 1.388888955116272,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 2.080897331237793,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_8": {
+      "heating_temperature": {
+        "temperature": 42.5,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 2.430555582046509,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 1.5046297311782837,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 1.0243055820465088,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_9": {
+      "heating_temperature": {
+        "temperature": 42.79999542236328,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "cooler": {
+      "oil": {
+        "temperature_after": 33.30000305175781,
+        "temperature_before": 30.29999542236328
+      },
+      "water": {
+        "temperature_after": 25.800003051757812,
+        "temperature_before": 24.899999618530273
+      }
+    },
+    "gas_collector": {
+      "temperature_before": 109.74698638916016,
+      "underpressure_before": 756.6550903320312
+    },
+    "valve_position": {
+      "gas_valve_closed": 2.156498908996582,
+      "gas_valve_open": 1,
+      "gas_valve_position": 0
+    },
+    "main_drive": {
+      "rotor_current": 1,
+      "rotor_voltage": 0,
+      "stator_current": 182.16567993164062,
+      "stator_voltage": 1
+    },
+    "oil_system": {
+      "oil_level": 83.54238891601562,
+      "oil_pressure": 2.156498908996582
+    },
+    "work": 0.6076388955116272
+  },
+  {
+    "id": "34c2c537-dcc8-4f5c-927f-7f15ec4d9a60",
+    "name": "Эксгаустер № 2 (У-172)",
+    "bearing_1": {
+      "heating_temperature": {
+        "temperature": 54.20000457763672,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 2.557870388031006,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 1.2442129850387573,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 1.8171297311782837,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_2": {
+      "heating_temperature": {
+        "temperature": 64.5,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 1.9907407760620117,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 1.0763888359069824,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 1.846064805984497,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_3": {
+      "heating_temperature": {
+        "temperature": 46,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_4": {
+      "heating_temperature": {
+        "temperature": 45.30000305175781,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_5": {
+      "heating_temperature": {
+        "temperature": 36.69999694824219,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_6": {
+      "heating_temperature": {
+        "temperature": 36.900001525878906,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 105,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_7": {
+      "heating_temperature": {
+        "temperature": 33.20000457763672,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.32407405972480774,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.35879629850387573,
+        "set_point_horizontal": {
+          "alarm_max": 10,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.4166666865348816,
+        "set_point_vertical": {
+          "alarm_max": 10,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_8": {
+      "heating_temperature": {
+        "temperature": 39.30000305175781,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.7523148655891418,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.78125,
+        "set_point_horizontal": {
+          "alarm_max": 10,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.434027761220932,
+        "set_point_vertical": {
+          "alarm_max": 10,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_9": {
+      "heating_temperature": {
+        "temperature": 49.900001525878906,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "cooler": {
+      "oil": {
+        "temperature_after": 30.5,
+        "temperature_before": 26.20000457763672
+      },
+      "water": {
+        "temperature_after": 25,
+        "temperature_before": 24.599998474121094
+      }
+    },
+    "gas_collector": {
+      "temperature_before": 111.44698333740234,
+      "underpressure_before": 747.9744873046875
+    },
+    "valve_position": {
+      "gas_valve_closed": 0,
+      "gas_valve_open": 73.5972671508789,
+      "gas_valve_position": 0
+    },
+    "main_drive": {
+      "rotor_current": 0,
+      "rotor_voltage": 0,
+      "stator_current": 168.89645385742188,
+      "stator_voltage": 0
+    },
+    "oil_system": {
+      "oil_level": 73.5972671508789,
+      "oil_pressure": 2.094668388366699
+    },
+    "work": 0.28935185074806213
+  },
+  {
+    "id": "48e9269c-de3a-46b1-add2-4b467d8704a5",
+    "name": "Эксгаустер № 3 (Ф-171)",
+    "bearing_1": {
+      "heating_temperature": {
+        "temperature": 48,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.9645288586616516,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 1.2847222089767456,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 1.701388955116272,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_2": {
+      "heating_temperature": {
+        "temperature": 48,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 1.4293981790542603,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 1.626157522201538,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 2.089120388031006,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_3": {
+      "heating_temperature": {
+        "temperature": 43.400001525878906,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_4": {
+      "heating_temperature": {
+        "temperature": 45.70000457763672,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_5": {
+      "heating_temperature": {
+        "temperature": 42.400001525878906,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_6": {
+      "heating_temperature": {
+        "temperature": 40.5,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_7": {
+      "heating_temperature": {
+        "temperature": 35.099998474121094,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 1.5300544500350952,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 2.0223894119262695,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 1.5625,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_8": {
+      "heating_temperature": {
+        "temperature": 42.79999542236328,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.9895833730697632,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 1.7129629850387573,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.9664351344108582,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_9": {
+      "heating_temperature": {
+        "temperature": 41,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "cooler": {
+      "oil": {
+        "temperature_after": 35.599998474121094,
+        "temperature_before": 37.900001525878906
+      },
+      "water": {
+        "temperature_after": 25.800003051757812,
+        "temperature_before": 23.79999542236328
+      }
+    },
+    "gas_collector": {
+      "temperature_before": 108.14144134521484,
+      "underpressure_before": 760.27197265625
+    },
+    "valve_position": {
+      "gas_valve_closed": 0.8240000009536743,
+      "gas_valve_open": 1781,
+      "gas_valve_position": 10
+    },
+    "main_drive": {
+      "rotor_current": 1781,
+      "rotor_voltage": 0,
+      "stator_current": 1838,
+      "stator_voltage": 106
+    },
+    "oil_system": {
+      "oil_level": 73.0999984741211,
+      "oil_pressure": 0.8240000009536743
+    },
+    "work": 1.2847222089767456
+  },
+  {
+    "id": "0c0ca2cf-ea58-4659-b4c2-20ec7894ca9d",
+    "name": "Эксгаустер № 4 (Ф-172)",
+    "bearing_1": {
+      "heating_temperature": {
+        "temperature": 52.400001525878906,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.4166666865348816,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 1.2442129850387573,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 1.5046297311782837,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_2": {
+      "heating_temperature": {
+        "temperature": 54.099998474121094,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 1.3946759700775146,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 1.047453761100769,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 1.9965277910232544,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_3": {
+      "heating_temperature": {
+        "temperature": 45.900001525878906,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_4": {
+      "heating_temperature": {
+        "temperature": 49.69999694824219,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_5": {
+      "heating_temperature": {
+        "temperature": 46.69999694824219,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_6": {
+      "heating_temperature": {
+        "temperature": 44.400001525878906,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_7": {
+      "heating_temperature": {
+        "temperature": 33.20000457763672,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 1.6145832538604736,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.5902777910232544,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.45717594027519226,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_8": {
+      "heating_temperature": {
+        "temperature": 49.5,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.34143519401550293,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.28935185074806213,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": -0.0173611119389534,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_9": {
+      "heating_temperature": {
+        "temperature": 45.099998474121094,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "cooler": {
+      "oil": {
+        "temperature_after": 41,
+        "temperature_before": 33.80000305175781
+      },
+      "water": {
+        "temperature_after": 22.599998474121094,
+        "temperature_before": 24.900001525878906
+      }
+    },
+    "gas_collector": {
+      "temperature_before": 117.14144134521484,
+      "underpressure_before": 780.526611328125
+    },
+    "valve_position": {
+      "gas_valve_closed": 10,
+      "gas_valve_open": 74.5999984741211,
+      "gas_valve_position": 10
+    },
+    "main_drive": {
+      "rotor_current": 1704,
+      "rotor_voltage": 2,
+      "stator_current": 1891,
+      "stator_voltage": 107
+    },
+    "oil_system": {
+      "oil_level": 74.5999984741211,
+      "oil_pressure": 0.9079999923706055
+    },
+    "work": 1.701388955116272
+  },
+  {
+    "id": "8fec7a8c-47cf-403d-92d3-1a2aea13c8fc",
+    "name": "Эксгаустер № 5 (X-171)",
+    "bearing_1": {
+      "heating_temperature": {
+        "temperature": 16.399993896484375,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.04050925746560097,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.028935184702277184,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.023148149251937866,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_2": {
+      "heating_temperature": {
+        "temperature": 16.79999542236328,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.0694444477558136,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.0057870373129844666,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.0694444477558136,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_3": {
+      "heating_temperature": {
+        "temperature": 3.8999977111816406,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_4": {
+      "heating_temperature": {
+        "temperature": 24.5,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_5": {
+      "heating_temperature": {
+        "temperature": 21.699996948242188,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_6": {
+      "heating_temperature": {
+        "temperature": 23,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_7": {
+      "heating_temperature": {
+        "temperature": 3.200000762939453,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.12731480598449707,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.08680549263954163,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.10995370149612427,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_8": {
+      "heating_temperature": {
+        "temperature": -0.5,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.15625,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.05679652839899063,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.05787036940455437,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_9": {
+      "heating_temperature": {
+        "temperature": -0.5,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "cooler": {
+      "oil": {
+        "temperature_after": 8.89999771118164,
+        "temperature_before": 8.799999237060547
+      },
+      "water": {
+        "temperature_after": -3276.800048828125,
+        "temperature_before": 22.899993896484375
+      }
+    },
+    "gas_collector": {
+      "temperature_before": -3.986801862716675,
+      "underpressure_before": -24.594905853271484
+    },
+    "valve_position": {
+      "gas_valve_closed": -0.07500000298023224,
+      "gas_valve_open": 28,
+      "gas_valve_position": 10
+    },
+    "main_drive": {
+      "rotor_current": 28,
+      "rotor_voltage": 0,
+      "stator_current": 2,
+      "stator_voltage": 0
+    },
+    "oil_system": {
+      "oil_level": 109.80000305175781,
+      "oil_pressure": -0.07500000298023224
+    },
+    "work": 0.028935184702277184
+  },
+  {
+    "id": "d9a9642e-e96d-41d3-9ae6-b522abeb8992",
+    "name": "Эксгаустер № 6 (X-172)",
+    "bearing_1": {
+      "heating_temperature": {
+        "temperature": 19.300003051757812,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.011574074625968933,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.0347222238779068,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.0347222238779068,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_2": {
+      "heating_temperature": {
+        "temperature": 22.899993896484375,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.06365740299224854,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.028935184702277184,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.0520833358168602,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_3": {
+      "heating_temperature": {
+        "temperature": 29.79999542236328,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_4": {
+      "heating_temperature": {
+        "temperature": 26.20000457763672,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_5": {
+      "heating_temperature": {
+        "temperature": 30.099998474121094,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_6": {
+      "heating_temperature": {
+        "temperature": 28.599998474121094,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_7": {
+      "heating_temperature": {
+        "temperature": 15.199996948242188,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.09837962687015533,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.086805559694767,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.10995370149612427,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_8": {
+      "heating_temperature": {
+        "temperature": 16.699996948242188,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      },
+      "vibration": {
+        "vibration_axial": 0.05787036940455437,
+        "set_point_axial": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_horizontal": 0.0347222238779068,
+        "set_point_horizontal": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        },
+        "vibration_vertical": 0.03486194089055061,
+        "set_point_vertical": {
+          "alarm_max": 7.099999904632568,
+          "alarm_min": 0,
+          "warning_max": 4.5,
+          "warning_min": 0
+        }
+      }
+    },
+    "bearing_9": {
+      "heating_temperature": {
+        "temperature": 19.400001525878906,
+        "set_point": {
+          "alarm_max": 75,
+          "alarm_min": 0,
+          "warning_max": 65,
+          "warning_min": 0
+        }
+      }
+    },
+    "cooler": {
+      "oil": {
+        "temperature_after": 1.3000030517578125,
+        "temperature_before": 12.400001525878906
+      },
+      "water": {
+        "temperature_after": -3276.800048828125,
+        "temperature_before": 20.599998474121094
+      }
+    },
+    "gas_collector": {
+      "temperature_before": 15.56782341003418,
+      "underpressure_before": -17.36111068725586
+    },
+    "valve_position": {
+      "gas_valve_closed": 10,
+      "gas_valve_open": 86.9000015258789,
+      "gas_valve_position": 10
+    },
+    "main_drive": {
+      "rotor_current": 26,
+      "rotor_voltage": 0,
+      "stator_current": -1,
+      "stator_voltage": 0
+    },
+    "oil_system": {
+      "oil_level": 86.9000015258789,
+      "oil_pressure": -0.057999998331069946
+    },
+    "work": 0.023148149251937866
+  }
+]
